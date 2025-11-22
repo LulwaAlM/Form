@@ -27,6 +27,11 @@ one;
   color: black;
 }
 
+
+.zoomimage {
+  transition: 0.5s;       
+}
+
 .zoomimage:hover {
   transform: scale(1.2);   
 }
