@@ -26,3 +26,7 @@ one;
   text-decoration: none;
   color: black;
 }
+
+.zoomimage:hover {
+  transform: scale(1.2);   
+}
