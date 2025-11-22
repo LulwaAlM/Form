@@ -7,6 +7,6 @@
 
 .button:hover {
   background: darkgreen;
-  transform: scale(0.0);
+  transform: scale(1.1);
 }
 
